@@ -190,7 +190,7 @@ static struct ThumbnailContext {
 	};
 } thumbnailCurrent, thumbnailNew;
 
-static const ColourScheme *colours = &colourSchemes[0];
+static const ColourScheme *colours = &colourSchemes[2];
 
 static Alert currentAlert;
 uint32_t lastAlertSeq = 0;

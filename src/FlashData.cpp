@@ -60,7 +60,7 @@ void FlashData::SetDefaults()
 	touchVolume = Buzzer::DefaultVolume;
 	brightness = Backlight::MaxBrightness;
 	language = 0;
-	colourScheme = 0;
+	colourScheme = 2;
 	displayDimmerType = DisplayDimmerType::always;
 	infoTimeout = DefaultInfoTimeout;
 	screensaverTimeout = DefaultScreensaverTimeout;
