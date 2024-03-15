@@ -208,7 +208,7 @@ const StringTable LanguageTables[] =
 		"Current Z offset: ",
 		"Message",
 		"Messages",
-		"Panel Due firmware version ",	// note space at end
+		"PanelDue firmware version ",	// note space at end
 		"Response",
 		"No files found",
 
@@ -344,7 +344,7 @@ const StringTable LanguageTables[] =
 		"Aktueller Z-Versatz: ",
 		"Nachricht",
 		"Nachrichten",
-		"Panel Due Firmwareversion ",	// note space at end
+		"PanelDue Firmwareversion ",	// note space at end
 		"Antwort",
 		"Keine Dateien gefunden",
 
@@ -480,7 +480,7 @@ const StringTable LanguageTables[] =
 		"Z offset actuel:  ",
 		"Message",
 		"Messages",
-		"Version du firmware du Panel Due ",	// note space at end
+		"Version du firmware du PanelDue ",	// note space at end
 		"Réponse",
 		"No files found",
 
@@ -616,7 +616,7 @@ const StringTable LanguageTables[] =
 		"Separación actual de Z: ",
 		"Mensaje",
 		"Mensajes",
-		"Versión del Firmware del Panel Due ",	// note space at end
+		"Versión del Firmware del PanelDue ",	// note space at end
 		"Respuesta",
 		"No files found",
 
@@ -752,7 +752,7 @@ const StringTable LanguageTables[] =
 		"Aktuální Z offset: ",
 		"Zpráva",
 		"Zprávy",
-		"Verze firmware Panel Due ",	// note space at end
+		"Verze firmware PanelDue ",	// note space at end
 		"Odpověď",
 		"No files found",
 
@@ -888,7 +888,7 @@ const StringTable LanguageTables[] =
 		"Z offset corrente: ",
 		"Messaggio",
 		"Messaggi",
-		"Versione firmware Panel Due ",	// note space at end
+		"Versione firmware PanelDue ",	// note space at end
 		"Risposta",
 		"No files found",
 
@@ -1025,7 +1025,7 @@ const StringTable LanguageTables[] =
 		"Actuele Z offset: ",
 		"Bericht",
 		"Berichten",
-		"Panel Due firmware versie ",	// note space at end
+		"PanelDue firmware versie ",	// note space at end
 		"Antwoord",
 		"No files found",
 
@@ -1161,7 +1161,7 @@ const StringTable LanguageTables[] =
 		"Aktualny offset Z : ",
 		"Wiadomość",
 		"Wiadomości",
-		"Panel Due firmware wersja ",	// note space at end
+		"PanelDue firmware wersja ",	// note space at end
 		"Odpowiedź",
 		"No files found",
 
@@ -1298,7 +1298,7 @@ const StringTable LanguageTables[] =
 		"Поточне зміщення Z: ",
 		"Повідомлення",
 		"Повідомлення",
-		"Версія прошивки Panel Due ",  // note space at end
+		"Версія прошивки PanelDue ",  // note space at end
 		"Відповідь",
 		"No files found",
 
@@ -1432,7 +1432,7 @@ const StringTable LanguageTables[] =
 		"Текущее смещение по оси Z: ",
 		"Сообщение",
 		"Сообщения",
-		"Версия прошивки Panel Due ",  // note space at end
+		"Версия прошивки PanelDue ",  // note space at end
 		"Ответ",
 		"No files found",
 
@@ -1569,7 +1569,7 @@ const StringTable LanguageTables[] =
 		"Zのオフセット: ",
 		"メッセージ",
 		"メッセージ",
-		"Panel Dueファームウェア ",	// note space at end
+		"PanelDueファームウェア ",	// note space at end
 		"レスポンス",
 		"No files found",
 
