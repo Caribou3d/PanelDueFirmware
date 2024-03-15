@@ -24,6 +24,6 @@
 #define VERSION_DEVICE
 #endif
 
-#define VERSION_TEXT VERSION_MAIN VERSION_ENCODER "-Caribou-Build 766"
+#define VERSION_TEXT VERSION_MAIN VERSION_ENCODER "-Caribou-Build 767"
 
 #endif /* SRC_VERSION_HPP_ */
