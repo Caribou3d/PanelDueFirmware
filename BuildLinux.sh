@@ -1,14 +1,11 @@
 #!/bin/bash
 #
-# This script can download and compile dependencies, compile CaribouSlicer
-# and optional build a .tgz and an appimage.
-#
-# Original script from SuperSclier by supermerill https://github.com/supermerill/SuperSlicer
+# This script can compile the firmware for PanelDue and creates
+# versions with a customized splash screen.
 #
 # Change log:
 #
-# 20 Nov 2023, wschadow, branding and minor changes
-# 01 Jan 2024, wschadow, debranding for the Prusa version, added build options
+# 16 Mar 2024, wschadow, initial version
 #
 
 export ROOT=`pwd`
