@@ -154,7 +154,7 @@ then
     then
     	mkdir AMExtrusion
     fi
-   ../Tools/gobmp2c/linux/bmp2c -binary -outfile AMExtrusion.bin ../SplashScreens/AMExtrusion-black.bmp
+   ../Tools/gobmp2c/linux/bmp2c -binary -outfile AMExtrusion.bin ../SplashScreens/AM_Extrusion-Logo.bmp
     cat paneldue.bin AMExtrusion.bin > AMExtrusion/PanelDueFirmware.bin
     rm -f AMExtrusion.bin
     popd > /dev/null
