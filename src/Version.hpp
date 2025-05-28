@@ -19,7 +19,9 @@
 #ifdef DEVICE
 #define STRINGIFY(x)	#x
 #define TOSTRING(x)	STRINGIFY(x)
-#define VERSION_DEVICE "-" TOSTRING(DEVICE)
+/* #define VERSION_DEVICE "-" TOSTRING(DEVICE) */
+/* we only care about 5.0i and 7.0i and they get the same formware*/
+#define VERSION_DEVICE
 #else
 #define VERSION_DEVICE
 #endif
