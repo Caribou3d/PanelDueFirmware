@@ -8,22 +8,22 @@
 #ifndef SRC_VERSION_HPP_
 #define SRC_VERSION_HPP_
 
-#define VERSION_MAIN		"3.5.0"
+#define VERSION_MAIN		"3.5.2-alpha.1"
 
 #ifdef SUPPORT_ENCODER
-#define VERSION_ENCODER	"+enc"
+# define VERSION_ENCODER	"+enc"
 #else
-#define VERSION_ENCODER
+# define VERSION_ENCODER
 #endif
 
 #ifdef DEVICE
-#define STRINGIFY(x)	#x
-#define TOSTRING(x)	STRINGIFY(x)
+# define STRINGIFY(x)	#x
+# define TOSTRING(x)	STRINGIFY(x)
 /* #define VERSION_DEVICE "-" TOSTRING(DEVICE) */
 /* we only care about 5.0i and 7.0i and they get the same formware*/
 #define VERSION_DEVICE
 #else
-#define VERSION_DEVICE
+# define VERSION_DEVICE
 #endif
 
 #define VERSION_TEXT VERSION_MAIN VERSION_ENCODER VERSION_DEVICE
